@@ -91,13 +91,7 @@ GROUP BY id_producto
 ORDER BY unidades_vendidas DESC;
 
 ### Hallazgos de Negocio
-Los análisis permiten responder preguntas como:
-¿Qué productos generan más ingresos?
-¿Qué productos tienen más volumen de ventas?
-¿Existe dependencia de pocos productos para sostener la facturación?
-¿Cuál es el ticket promedio de los clientes?
-¿Qué meses presentan mejor rendimiento comercial?
-
+Los análisis permiten responder preguntas como:¿Qué productos generan más ingresos?/¿Qué productos tienen más volumen de ventas?/¿Existe dependencia de pocos productos para sostener la facturación?/¿Cuál es el ticket promedio de los clientes?/¿Qué meses presentan mejor rendimiento comercial?
 
 ### Roadmap
 Dashboard Power BI con semáforo concentración, Segmentación por ticket y Análisis por categorías
