@@ -100,6 +100,4 @@ Los análisis permiten responder preguntas como:
 
 
 ### Roadmap
-Dashboard Power BI con semáforo concentración
-Segmentación por ticket
-Análisis por categorías
+Dashboard Power BI con semáforo concentración, Segmentación por ticket y Análisis por categorías
